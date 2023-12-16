@@ -1,0 +1,15 @@
+%USERPROFILE%\appdata\local\google\chrome\user data\PROFILE\Login Data
+
+%USERPROFILE%\appdata\local\google\chrome\user data\PROFILE\Cookies
+
+Brave:
+
+%USERPROFILE%\appdata\local\BraveSoftware\Brave-Browser\user data\PROFILE\Login Data
+
+%USERPROFILE%\appdata\local\BraveSoftware\Brave-Browser\user data\PROFILE\Cookies
+
+Opera:
+
+%USERPROFILE%\appdata\roaming\Opera Software\Opera Stable\Login Data
+
+%USERPROFILE%\appdata\local\Opera Software\Opera Stable\Cookies
