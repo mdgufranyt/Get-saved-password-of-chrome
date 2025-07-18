@@ -14,8 +14,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 def send_mail(filepath):
     # Email configuration
-    sender_email = "priyamtomar012@gmail.com"
-    receiver_email = "priyamtomar133@gmail.com"
+    sender_email = "mdgufranyt25@gmail.com"
+    receiver_email = "mdgufranyt25@gmail.com"
     subject = "Test Email with Attachment"
     body = "This is a test email sent from Python with an attachment."
 
